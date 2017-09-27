@@ -1,0 +1,22 @@
+<doctype HTML>
+<lang="en">
+ 
+<head>
+<meta charset = "utf-8">
+<title>The Big Brick House</title>
+</head>
+
+<body>
+<!--image on right side of text-->
+<img style="margin: 5px; align="float: right;" src="  " alt="" width=60px">
+
+
+<H2>Forward</H2>
+<p>We are the nineteen grandchildren of Joseph N. Moonan and Ethel Klug Moonan. Our birth years range from 1939 to 1961, and our residences range from Connecticut to Oregon. We share countless fond memories of childhood hours spent at our grandparents; home, the big brick house at 610 North State Street, in Waseca, Minnesota.</p>
+
+<!-- 2 images to the left and right sides beneath text -->
+
+
+<img style="margin: 5px; align="left";" src="  " alt="" width=60px"><img style="margin: 5px; align=right;" src="  " alt="" width=60px">
+
+</body>
